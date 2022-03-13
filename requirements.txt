@@ -1,2 +1,9 @@
 streamlit
-requests
+httplib2
+apiclient.discovery
+apiclient.errors
+oauth2client.client
+oauth2client.file
+oauth2client.tools
+vaderSentiment.vaderSentiment
+streamlit.components
