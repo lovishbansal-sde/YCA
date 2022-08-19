@@ -1,5 +1,6 @@
 # Youtube-Comment-Analysis
 Basic sentiment analysis of comments on a youtube video using a builtin python package "Vader Lexicon" and "Youtube Data API".
+![YouTube_Logo](https://user-images.githubusercontent.com/81516480/185598617-10f4a474-5067-4d89-a260-0886be62964f.png)
 
 # How it is made
 I have simply used "Youtube Data API" which is available on "Google Developers Console" to scrap youtube comments of a particular video and download them in a CSV format. Then I have made use of python library called "NLTK" (Natural Language Toolkit), a platform for building python programs to work with Human language data. More specifically, what I have used is called VADER (Valence Aware Dictionary and Sentiment Reasoner) which is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed on social media. I have combined this vader lexicon and youtube data api to give a machine generated report on sentiments of comments that are posted (Expressed) on a particular video.
